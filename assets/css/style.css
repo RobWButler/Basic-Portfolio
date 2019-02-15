@@ -1,0 +1,39 @@
+.container {
+    max-width:960px;
+    margin: auto;
+}
+
+header {
+    background-color: #ffffff;
+    border-color: #cccccc;
+    padding:10px;
+    margin:5px;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    background-color: #ffffff;
+    color:#4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-image: url("../images/cartographer_@2X.png");
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif
+  }
+
+.a {
+    background-color: #ffffff;
+  }
+
+.links {
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color:#4aaaa5;
+    text-decoration: none;
+}
