@@ -16,7 +16,7 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #ffffff;
     position: relative;
-    top: 42px;
+    bottom:0px;
 }
 
 h1 span {
