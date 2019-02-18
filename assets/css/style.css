@@ -26,10 +26,9 @@ h1 {
 h1 span {
     background-color:#4aaaa5;
     padding:20px;
-    position:relative;
+    position:absolute;
     bottom:0;
     float:left;
-
 }
 
 h2 {
@@ -93,6 +92,7 @@ p {
     size:200px;
     padding: 30px 30px 30px 30px;
     margin:auto;
+    position:relative;
 }
 
 .portfolioleft {
@@ -101,4 +101,14 @@ p {
 
 .portfolioright {
     float:right;
+}
+
+.portfoliotext {
+    position:absolute;
+    bottom:50px;
+    width:170px;
+    background-color:gray;  
+    padding:15px;
+    color:white;
+    text-align:center;
 }
