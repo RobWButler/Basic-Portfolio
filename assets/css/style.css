@@ -113,3 +113,14 @@ a {
     color:white;
     text-align:center;
 }
+
+.footbar {
+    background-color: darkslategray;
+    border-color: #cccccc;
+    position:fixed;
+    height:50px;
+    bottom:0;
+    width:100%;
+    padding-top:0;
+    margin-top:50px;
+}
