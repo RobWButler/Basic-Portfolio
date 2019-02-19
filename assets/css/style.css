@@ -3,7 +3,6 @@
     margin: auto;
     background-color:white;
     overflow:auto;
-
 }
 
 .topbar {
@@ -66,18 +65,18 @@ p {
 .links {
     text-align: right;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 32px;
+    font-size: 22px;
     color:#4aaaa5;
     margin-right:485px;
     float:right;
-    top:15px;
+    top:20px;
     position:relative;
 }
 
 a {
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 18px;
+    font-size: 22px;
     color:#4aaaa5;
 }
 
