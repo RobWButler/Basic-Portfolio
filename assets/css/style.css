@@ -2,7 +2,9 @@
     width:960px;
     margin: auto;
     background-color:white;
-    overflow:auto;
+    content: "";
+    clear: both;
+    display: table;
 }
 
 .topbar {
@@ -13,7 +15,6 @@
     top:0;
     width:100%;
     padding-bottom:0;
-    margin-bottom:50px;
 }
 
 h1 {
